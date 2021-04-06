@@ -10,6 +10,8 @@
 
 #pragma once
 
+#include <string>
+
 #include "clip/option.h"
 #include "clip/value.h"
 

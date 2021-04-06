@@ -10,6 +10,7 @@
 
 #include "clip/arg.h"
 
+#include <iosfwd>
 #include <string>
 
 #include "clip/param.h"

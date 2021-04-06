@@ -14,7 +14,6 @@
 #include <regex>
 #include <stdexcept>
 #include <string>
-#include <vector>
 
 #include "clip/param.h"
 

@@ -10,6 +10,7 @@
 
 #pragma once
 
+#include <iosfwd>
 #include <string>
 
 #include "clip/param.h"

@@ -10,6 +10,7 @@
 
 #include "clip/opt.h"
 
+#include <iosfwd>
 #include <string>
 
 #include "clip/option.h"

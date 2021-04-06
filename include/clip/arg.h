@@ -10,6 +10,8 @@
 
 #pragma once
 
+#include <string>
+
 #include "clip/value.h"
 
 namespace clip {
