@@ -1,12 +1,7 @@
-//
-//  demo.cpp
-//  Clip demo application.
-//
-//  Created by Zakhary Kaplan on 2020-12-17.
-//  Copyright © 2020 Zakhary Kaplan. All rights reserved.
-//
-//  SPDX-License-Identifier: MIT
-//
+// File:        demo.cpp
+// Author:      Zakhary Kaplan <https://zakharykaplan.ca>
+// Created:     17 Dec 2020
+// SPDX-License-Identifier: MIT
 
 #include <iostream>
 #include <string>

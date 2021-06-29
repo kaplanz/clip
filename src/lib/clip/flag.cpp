@@ -1,12 +1,7 @@
-//
-//  flag.cpp
-//  Command line interface flag.
-//
-//  Created by Zakhary Kaplan on 2020-12-01.
-//  Copyright © 2020 Zakhary Kaplan. All rights reserved.
-//
-//  SPDX-License-Identifier: MIT
-//
+// File:        flag.cpp
+// Author:      Zakhary Kaplan <https://zakharykaplan.ca>
+// Created:     01 Dec 2020
+// SPDX-License-Identifier: MIT
 
 #include "clip/flag.h"
 

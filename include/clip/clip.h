@@ -1,12 +1,7 @@
-//
-//  clip.h
-//  Command line interface parser.
-//
-//  Created by Zakhary Kaplan on 2020-11-30.
-//  Copyright © 2020 Zakhary Kaplan. All rights reserved.
-//
-//  SPDX-License-Identifier: MIT
-//
+// File:        clip.h
+// Author:      Zakhary Kaplan <https://zakharykaplan.ca>
+// Created:     30 Nov 2020
+// SPDX-License-Identifier: MIT
 
 #pragma once
 

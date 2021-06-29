@@ -1,12 +1,7 @@
-//
-//  app.h
-//  Command line interface app.
-//
-//  Created by Zakhary Kaplan on 2020-12-20.
-//  Copyright © 2020 Zakhary Kaplan. All rights reserved.
-//
-//  SPDX-License-Identifier: MIT
-//
+// File:        app.h
+// Author:      Zakhary Kaplan <https://zakharykaplan.ca>
+// Created:     20 Dec 2020
+// SPDX-License-Identifier: MIT
 
 #pragma once
 

@@ -1,12 +1,7 @@
-//
-//  app.cpp
-//  Command line interface app.
-//
-//  Created by Zakhary Kaplan on 2020-12-20.
-//  Copyright © 2020 Zakhary Kaplan. All rights reserved.
-//
-//  SPDX-License-Identifier: MIT
-//
+// File:        app.cpp
+// Author:      Zakhary Kaplan <https://zakharykaplan.ca>
+// Created:     20 Dec 2020
+// SPDX-License-Identifier: MIT
 
 #include "clip/app.h"
 

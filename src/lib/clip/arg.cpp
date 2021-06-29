@@ -1,12 +1,7 @@
-//
-//  arg.cpp
-//  Command line interface argument.
-//
-//  Created by Zakhary Kaplan on 2020-12-23.
-//  Copyright © 2020 Zakhary Kaplan. All rights reserved.
-//
-//  SPDX-License-Identifier: MIT
-//
+// File:        arg.cpp
+// Author:      Zakhary Kaplan <https://zakharykaplan.ca>
+// Created:     23 Dec 2020
+// SPDX-License-Identifier: MIT
 
 #include "clip/arg.h"
 

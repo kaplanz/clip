@@ -1,12 +1,7 @@
-//
-//  option.cpp
-//  Command line interface abstract option.
-//
-//  Created by Zakhary Kaplan on 2020-12-23.
-//  Copyright © 2020 Zakhary Kaplan. All rights reserved.
-//
-//  SPDX-License-Identifier: MIT
-//
+// File:        option.cpp
+// Author:      Zakhary Kaplan <https://zakharykaplan.ca>
+// Created:     23 Dec 2020
+// SPDX-License-Identifier: MIT
 
 #include "clip/option.h"
 

@@ -1,12 +1,7 @@
-//
-//  parser.cpp
-//  Command line interface parser.
-//
-//  Created by Zakhary Kaplan on 2020-11-12.
-//  Copyright © 2020 Zakhary Kaplan. All rights reserved.
-//
-//  SPDX-License-Identifier: MIT
-//
+// File:        parser.cpp
+// Author:      Zakhary Kaplan <https://zakharykaplan.ca>
+// Created:     12 Nov 2020
+// SPDX-License-Identifier: MIT
 
 #include "clip/parser.h"
 

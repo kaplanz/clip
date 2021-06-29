@@ -1,12 +1,7 @@
-//
-//  timer.cpp
-//  Clip demo application.
-//
-//  Created by Zakhary Kaplan on 2021-01-03.
-//  Copyright © 2020 Zakhary Kaplan. All rights reserved.
-//
-//  SPDX-License-Identifier: MIT
-//
+// File:        timer.cpp
+// Author:      Zakhary Kaplan <https://zakharykaplan.ca>
+// Created:     03 Jan 2021
+// SPDX-License-Identifier: MIT
 
 #include <chrono>
 #include <iostream>

@@ -1,12 +1,7 @@
-//
-//  opt.cpp
-//  Command line interface option.
-//
-//  Created by Zakhary Kaplan on 2020-11-29.
-//  Copyright © 2020 Zakhary Kaplan. All rights reserved.
-//
-//  SPDX-License-Identifier: MIT
-//
+// File:        opt.cpp
+// Author:      Zakhary Kaplan <https://zakharykaplan.ca>
+// Created:     29 Nov 2020
+// SPDX-License-Identifier: MIT
 
 #include "clip/opt.h"
 
