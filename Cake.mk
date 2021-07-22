@@ -1,11 +1,13 @@
 # Package
-NAME    := clip
-VERSION := 0.1.0
-AUTHOR  := Zakhary Kaplan <zakharykaplan@gmail.com>
+NAME    = clip
+VERSION = 0.1.0
+AUTHOR  = Zakhary Kaplan <zakharykaplan@gmail.com>
 
 # Build
-CONFIG ?= DEFAULT
+CONFIG ?= BASIC
 
 # Flags
-CXXFLAGS := -Wall -g -std=c++2a
-LDLIBS   := -lfmt
+LDLIBS   = -lfmt
+
+# Install
+NOINSTALL = bin/demo bin/timer
