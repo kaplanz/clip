@@ -1,5 +1,5 @@
 // File:        opt.cpp
-// Author:      Zakhary Kaplan <https://zakharykaplan.ca>
+// Author:      Zakhary Kaplan <https://zakhary.dev>
 // Created:     29 Nov 2020
 // SPDX-License-Identifier: MIT
 

@@ -1,5 +1,5 @@
 // File:        param.h
-// Author:      Zakhary Kaplan <https://zakharykaplan.ca>
+// Author:      Zakhary Kaplan <https://zakhary.dev>
 // Created:     12 Nov 2020
 // SPDX-License-Identifier: MIT
 
