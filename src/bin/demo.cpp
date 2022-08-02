@@ -16,7 +16,7 @@ int main(int argc, char *argv[]) {
                         argv,
                         clip::App("demo")
                             .about("My awesome app. Parsed by clip!")
-                            .author("Zakhary Kaplan <zakharykaplan@gmail.com>")
+                            .author("Zakhary Kaplan <https://zakhary.dev>")
                             .version("0.1.0"));
     // Add parser options
     parser.add(clip::Opt<double>("double").shortname('d').help("Sample double.").value(0.));
